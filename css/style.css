@@ -1,0 +1,56 @@
+.text-font{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-search-bar{
+    width :350px;
+    margin:auto;
+    display: block;
+    text-align: center;
+}
+img{
+    margin:auto;
+    display: block;
+}
+.text-align{
+    text-align: center;
+}
+.div-center{
+    text-align: center;
+}
+.center-link{
+    display: block;
+    text-align: center;
+    padding: 0px;
+    margin: auto;
+       
+}
+.div-parent{
+    width:1050px;
+    border: 0px;
+    height: 100px;
+    margin:auto;
+}
+.div-child{
+    background-color: cyan;
+    width:300px;
+   
+    height:90px;
+    vertical-align: middle;
+    margin:1px;
+    display: inline-block;
+    padding:10px;
+}
+.box-center-align{
+    text-align: center;
+    margin: 5px;
+}
+.email-input{
+    display: block;
+    margin: auto;
+    padding:4px;
+    text-align: center;
+    height: 10px;
+    width: 200px;
+}
+
